@@ -1,0 +1,22 @@
+﻿  Winupack_unpacker.cpp
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(37): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(128): warning C4267: '=': conversion from 'size_t' to 'WORD', possible loss of data
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(130): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uint64_t'
+  c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(130): note: consider using '%llx' in the format string
+  c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(130): note: consider using '%I64x' in the format string
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(157): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uint64_t'
+  c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(157): note: consider using '%llx' in the format string
+  c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(157): note: consider using '%I64x' in the format string
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(139): warning C4101: 'insn': unreferenced local variable
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(137): warning C4101: 'r_ecx': unreferenced local variable
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(140): warning C4101: 'decompressed': unreferenced local variable
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(156): warning C4101: 'count': unreferenced local variable
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(174): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(174): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(174): note: the missing variadic argument 1 is required by format string '%s'
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(249): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(240): warning C4101: 'r_esp': unreferenced local variable
+  Winupack_unpacker.vcxproj -> C:\Users\n4x0r\Documents\Visual Studio 2017\Projects\Winupack_unpacker\Debug\Winupack_unpacker.exe
+  Winupack_unpacker.vcxproj -> C:\Users\n4x0r\Documents\Visual Studio 2017\Projects\Winupack_unpacker\Debug\Winupack_unpacker.pdb (Partial PDB)

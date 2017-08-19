@@ -1,0 +1,18 @@
+﻿  Winupack_unpacker.cpp
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(46): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(38): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(125): warning C4267: '=': conversion from 'size_t' to 'WORD', possible loss of data
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(127): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uint64_t'
+  c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(127): note: consider using '%llx' in the format string
+  c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(127): note: consider using '%Ix' in the format string
+  c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(127): note: consider using '%I64x' in the format string
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(137): warning C4101: 'insn': unreferenced local variable
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(193): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(235): warning C4311: 'type cast': pointer truncation from 'PIMAGE_DOS_HEADER' to 'uint32_t'
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(235): warning C4302: 'type cast': truncation from 'PIMAGE_DOS_HEADER' to 'uint32_t'
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(235): warning C4312: 'type cast': conversion from 'unsigned long' to 'PIMAGE_NT_HEADERS32' of greater size
+c:\users\n4x0r\documents\visual studio 2017\projects\winupack_unpacker\winupack_unpacker\winupack_unpacker.cpp(185): warning C4715: 'hook_code': not all control paths return a value
+  Winupack_unpacker.vcxproj -> C:\Users\n4x0r\Documents\Visual Studio 2017\Projects\Winupack_unpacker\x64\Debug\Winupack_unpacker.exe
+  Winupack_unpacker.vcxproj -> C:\Users\n4x0r\Documents\Visual Studio 2017\Projects\Winupack_unpacker\x64\Debug\Winupack_unpacker.pdb (Partial PDB)

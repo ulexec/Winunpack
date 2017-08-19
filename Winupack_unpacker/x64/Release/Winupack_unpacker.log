@@ -1,0 +1,54 @@
+﻿  Winupack_unpacker.cpp
+Winupack_unpacker.cpp(37): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+Winupack_unpacker.cpp(128): warning C4267: '=': conversion from 'size_t' to 'WORD', possible loss of data
+Winupack_unpacker.cpp(130): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uint64_t'
+  Winupack_unpacker.cpp(130): note: consider using '%llx' in the format string
+  Winupack_unpacker.cpp(130): note: consider using '%Ix' in the format string
+  Winupack_unpacker.cpp(130): note: consider using '%I64x' in the format string
+Winupack_unpacker.cpp(147): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uint64_t'
+  Winupack_unpacker.cpp(147): note: consider using '%llx' in the format string
+  Winupack_unpacker.cpp(147): note: consider using '%Ix' in the format string
+  Winupack_unpacker.cpp(147): note: consider using '%I64x' in the format string
+Winupack_unpacker.cpp(159): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uint64_t'
+  Winupack_unpacker.cpp(159): note: consider using '%llx' in the format string
+  Winupack_unpacker.cpp(159): note: consider using '%Ix' in the format string
+  Winupack_unpacker.cpp(159): note: consider using '%I64x' in the format string
+Winupack_unpacker.cpp(139): warning C4101: 'insn': unreferenced local variable
+Winupack_unpacker.cpp(137): warning C4101: 'r_ecx': unreferenced local variable
+Winupack_unpacker.cpp(140): warning C4101: 'decompressed': unreferenced local variable
+Winupack_unpacker.cpp(158): warning C4101: 'count': unreferenced local variable
+Winupack_unpacker.cpp(206): warning C4311: 'type cast': pointer truncation from 'PIMAGE_DOS_HEADER' to 'uint32_t'
+Winupack_unpacker.cpp(206): warning C4302: 'type cast': truncation from 'PIMAGE_DOS_HEADER' to 'uint32_t'
+Winupack_unpacker.cpp(206): warning C4312: 'type cast': conversion from 'unsigned long' to 'PIMAGE_NT_HEADERS32' of greater size
+Winupack_unpacker.cpp(176): warning C4473: 'printf' : not enough arguments passed for format string
+  Winupack_unpacker.cpp(176): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  Winupack_unpacker.cpp(176): note: the missing variadic argument 1 is required by format string '%s'
+Winupack_unpacker.cpp(228): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uint64_t'
+  Winupack_unpacker.cpp(228): note: consider using '%llx' in the format string
+  Winupack_unpacker.cpp(228): note: consider using '%Ix' in the format string
+  Winupack_unpacker.cpp(228): note: consider using '%I64x' in the format string
+Winupack_unpacker.cpp(229): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uint64_t'
+  Winupack_unpacker.cpp(229): note: consider using '%llx' in the format string
+  Winupack_unpacker.cpp(229): note: consider using '%Ix' in the format string
+  Winupack_unpacker.cpp(229): note: consider using '%I64x' in the format string
+Winupack_unpacker.cpp(230): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uint64_t'
+  Winupack_unpacker.cpp(230): note: consider using '%llx' in the format string
+  Winupack_unpacker.cpp(230): note: consider using '%Ix' in the format string
+  Winupack_unpacker.cpp(230): note: consider using '%I64x' in the format string
+Winupack_unpacker.cpp(236): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uint64_t'
+  Winupack_unpacker.cpp(236): note: consider using '%llx' in the format string
+  Winupack_unpacker.cpp(236): note: consider using '%Ix' in the format string
+  Winupack_unpacker.cpp(236): note: consider using '%I64x' in the format string
+Winupack_unpacker.cpp(236): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'uint64_t'
+  Winupack_unpacker.cpp(236): note: consider using '%llx' in the format string
+  Winupack_unpacker.cpp(236): note: consider using '%Ix' in the format string
+  Winupack_unpacker.cpp(236): note: consider using '%I64x' in the format string
+Winupack_unpacker.cpp(255): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  Generating code
+  1 of 11 functions ( 9.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Winupack_unpacker.vcxproj -> C:\Users\n4x0r\Documents\Visual Studio 2017\Projects\Winupack_unpacker\x64\Release\Winupack_unpacker.exe
